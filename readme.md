@@ -14,3 +14,9 @@
 
 ![Proje Demo](yolowithcsrt.gif)
 
+
+-MULTİPLE PAGES FOR GCS-
+
+![Proje Demo](multiplepages.gif)
+
+
