@@ -7,3 +7,6 @@ SPACE GAME
 ![Proje Demo](game.gif)
 
 YOLO WİTH CSRT
+
+![Proje Demo](yolowithcsrt.gif)
+
