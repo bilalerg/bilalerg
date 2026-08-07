@@ -59,7 +59,7 @@ Autonomous mission software for a UAV that reached the **finals of the TEKNOFEST
 
 ### [Space Game — Unity](https://github.com/bilalerg/Game-with-Unity)
 
-![Space game](game.gif)
+2D space shooter built in Unity with C#.
 
 ---
 
